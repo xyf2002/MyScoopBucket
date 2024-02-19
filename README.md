@@ -20,6 +20,10 @@
 
 
    ```
+   .\install.ps1 -ScoopDir 'your desired scoop directory' -ScoopGlobalDir 'directory for future global installations' -NoProxy
+
+   ```
+
 
 
 ---
